@@ -4,9 +4,9 @@ Grass-Fire Algorithm or otherwise known as the Breadth-First Search (BFS) Algori
 
 
 Elements:
-"*" = Open Path
-"=" = Closed Path/Obstacle
-"s" = Starting Position
+"*" = Open Path \n
+"=" = Closed Path/Obstacle \n
+"s" = Starting Position \n
 "d" = Destination 
 
 
