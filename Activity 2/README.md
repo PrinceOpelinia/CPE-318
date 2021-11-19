@@ -1,4 +1,4 @@
-#CPE-318 Activity 2
+# CPE-318 Activity 2
 
 Grass-Fire Algorithm or otherwise known as the Breadth-First Search (BFS) Algorithm using C++.
 
